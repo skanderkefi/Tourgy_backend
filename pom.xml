@@ -87,6 +87,7 @@
 	</dependencies>
 
 	<build>
+	<finalName>client1-service</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
