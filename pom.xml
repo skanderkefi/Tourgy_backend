@@ -87,7 +87,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>client1-service</finalName>
+	<finalName>tourgy-service</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
